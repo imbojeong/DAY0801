@@ -56,4 +56,6 @@ function 이름{
 
 }
 export default 이름;
-"# DAY0801" 
+"# react_start"
+
+### 파일명 대문자로 안된다. 소문자로 아니면 error 발생
